@@ -1,4 +1,15 @@
 body {
-    background-color: bisque;
+    background-color: rgb(223, 154, 236);
 }
-Copiar código
+footer{
+    background-color: black; 
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer p {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
