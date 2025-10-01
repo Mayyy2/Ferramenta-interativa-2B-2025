@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Química', 
     'O que são hidrocarbonetos?',
-    'Compostos orgânicos formados apenas por átomos de carbono e hidrogênio, unidos por ligações covalentes'
+    'São compostos orgânicos formados apenas por átomos de carbono e hidrogênio, unidos por ligações covalentes'
 )
 
 criaCartao(
