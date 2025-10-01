@@ -5,9 +5,9 @@ criacartao(
 )
 
 criacartao(
-    'Fisica', 
-    'Qual é a primeira lei de Newton?',
-    'Lei da Inércia'
+    'Química', 
+    'O que são hidrocarbonetos?',
+    'Compostos orgânicos formados apenas por átomos de carbono e hidrogênio, unidos por ligações covalentes'
 )
 
 criacartao(
